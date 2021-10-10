@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @wulyni
-- 🌱 I’m currently learning python
-- 📫 How to reach me instagram: @wulychu
+inst: wulychu
 
 <!---
 wulyni/wulyni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
